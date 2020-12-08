@@ -1,4 +1,17 @@
+body {
+  background-color: #f3f2da;
+  color: #000000;
+  width: 800px;
+  padding-left: 15px;
+}
+
 h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  margin-bottom: -7px;
+}
+
+h4 {
   font-family: sans-serif;
   font-size: 16px;
   margin-bottom: -7px;
@@ -6,25 +19,27 @@ h3 {
 
 ol {
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 p {
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 ul {
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .p-heading {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .p-nonheading {
   margin-top: -11px;
-  font-size: 12px;
+  font-size: 14px;
 }
+
+.p-text {}
